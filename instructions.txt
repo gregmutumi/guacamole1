@@ -1,5 +1,6 @@
 -chop avocados
 -add onions
+-add chopped fresh tomatoes
 -swqueeze lime
 -add salt
 -mix weel
